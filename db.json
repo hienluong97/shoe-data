@@ -2,10 +2,10 @@
   "products": [
     {
       "id": 1,
-      "title": "Giày Converse Chuck Taylor All Star Classic - Black/ White",
+      "title": "Giày Converse Chuck Taylor All Star Classic",
       "description": "Nhắc đến tên dòng sản phẩm này - giày Converse classic đã đủ để thấy được sự basic của nó. Và BST Chuck Taylor All Star Classic đã chứng tỏ được vị thế của những đôi giày chất lượng - đơn giản - giá cả phải chăng của mình khi nó lọt top những sản phẩm đáng sở hữu nhất mà ai cũng nên có một đôi",
       "category": "converse",
-      "image": "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw90917086/images/e_08/A03721C_E_08X1.jpg?sw=406",
+      "image": "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw54be686f/images/a_107/A00908C_A_107X1.jpg?sw=964",
       "originalPrice": 1500000,
       "salePrice": 120000,
       "isPromotion": true,
@@ -14,14 +14,16 @@
       "rating": {
         "rate": 5,
         "count": 120
-      }
+      },
+      "color":"xanh",
+      "size":36
     },
     {
       "id": 2,
       "title": "Giày Converse Chuck Taylor All Star Classic - Black/ White",
       "description": "Nếu như các tín đồ thời trang trên toàn cầu đã không còn xa lạ với những item thời trang có tông màu hồng được lựa chọn với nhiều sắc thái khác nhau từ đậm, nhạt, có họa tiết hay không có họa tiết, thì một sản phẩm có phần đơn giản lại đẹp và cổ điển như giày Converse Chuck 70 Himalya Salt đảm bảo sẽ mang lại nhiều cảm hứng về thời trang tối giản hơn.",
       "category": "converse",
-      "image": "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwfa284bb1/images/e_08/561676C_E_08X1.jpg?sw=406",
+      "image": "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw0877888b/images/a_107/A02061C_A_107X1.jpg?sw=964",
       "originalPrice": 2000000,
       "salePrice": 1900000,
       "isPromotion": true,
@@ -31,6 +33,9 @@
         "rate": 5,
         "count": 12
       }
+      ,
+      "color":"vang",
+      "size":37
     },
     {
       "id": 3,
@@ -46,7 +51,9 @@
       "rating": {
         "rate": 4.7,
         "count": 121
-      }
+      },
+      "color":"trang",
+      "size":38
     },
     {
       "id": 4,
@@ -62,7 +69,9 @@
       "rating": {
         "rate": 4.9,
         "count": 12
-      }
+      },
+      "color":"do",
+      "size":38
     },
     {
       "id": 5,
@@ -78,7 +87,9 @@
       "rating": {
         "rate": 4.7,
         "count": 105
-      }
+      },
+      "color":"vang",
+      "size":39
     },
     {
       "id": 6,
@@ -95,6 +106,9 @@
         "rate": 5,
         "count": 110
       }
+      ,
+      "color":"do",
+      "size":38
     },
     {
       "id": 7,
@@ -110,7 +124,9 @@
       "rating": {
         "rate": 4.8,
         "count": 12
-      }
+      },
+      "color":"xanh",
+      "size":39
     },
     {
       "id": 8,
@@ -126,7 +142,9 @@
       "rating": {
         "rate": 5,
         "count": 120
-      }
+      },
+      "color":"trang",
+      "size":38
     },
     {
       "id": 9,
@@ -142,7 +160,9 @@
       "rating": {
         "rate": 4.3,
         "count": 10
-      }
+      },
+      "color":"trang",
+      "size":37
     },
     {
       "id": 10,
@@ -158,7 +178,9 @@
       "rating": {
         "rate": 5,
         "count": 100
-      }
+      },
+      "color":"hong",
+      "size":38
     },
     {
       "id": 11,
@@ -174,7 +196,9 @@
       "rating": {
         "rate": 5,
         "count": 95
-      }
+      },
+      "color":"trang",
+      "size":36
     },
     {
       "id": 12,
@@ -190,7 +214,9 @@
       "rating": {
         "rate": 5,
         "count": 12
-      }
+      },
+      "color":"vang",
+      "size":38
     },
     {
       "id": 13,
@@ -206,7 +232,9 @@
       "rating": {
         "rate": 4.7,
         "count": 121
-      }
+      },
+      "color":"den",
+      "size":38
     },
     {
       "id": 14,
@@ -222,7 +250,9 @@
       "rating": {
         "rate": 4.9,
         "count": 176
-      }
+      },
+      "color":"den",
+      "size":38
     },
     {
       "id": 15,
@@ -238,7 +268,9 @@
       "rating": {
         "rate": 4.4,
         "count": 105
-      }
+      },
+      "color":"vang",
+      "size":38
     },
     {
       "id": 16,
@@ -254,7 +286,9 @@
       "rating": {
         "rate": 5,
         "count": 110
-      }
+      },
+      "color":"trang",
+      "size":36
     },
     {
       "id": 17,
@@ -270,7 +304,9 @@
       "rating": {
         "rate": 4.8,
         "count": 12
-      }
+      },
+      "color":"vang",
+      "size":39
     },
     {
       "id": 18,
@@ -286,7 +322,9 @@
       "rating": {
         "rate": 4.5,
         "count": 120
-      }
+      },
+      "color":"xanh",
+      "size":38
     },
     {
       "id": 19,
@@ -302,7 +340,9 @@
       "rating": {
         "rate": 4.3,
         "count": 10
-      }
+      },
+      "color":"den",
+      "size":39
     },
     {
       "id": 20,
@@ -318,7 +358,9 @@
       "rating": {
         "rate": 5,
         "count": 120
-      }
+      },
+      "color":"xanh",
+      "size":38
     },
     {
       "id": 21,
@@ -334,7 +376,9 @@
       "rating": {
         "rate": 5,
         "count": 120
-      }
+      },
+      "color":"trang",
+      "size":39
     },
     {
       "id": 22,
@@ -350,7 +394,9 @@
       "rating": {
         "rate": 5,
         "count": 12
-      }
+      },
+      "color":"trang",
+      "size":38
     },
     {
       "id": 23,
@@ -366,7 +412,9 @@
       "rating": {
         "rate": 4.7,
         "count": 121
-      }
+      },
+      "color":"trang",
+      "size":37
     },
     {
       "id": 24,
@@ -382,7 +430,9 @@
       "rating": {
         "rate": 4.9,
         "count": 12
-      }
+      },
+      "color":"trang",
+      "size":36
     },
     {
       "id": 25,
@@ -398,7 +448,9 @@
       "rating": {
         "rate": 4.7,
         "count": 105
-      }
+      },
+      "color":"hong",
+      "size":38
     },
     {
       "id": 26,
@@ -414,7 +466,9 @@
       "rating": {
         "rate": 5,
         "count": 110
-      }
+      },
+      "color":"trang",
+      "size":36
     },
     {
       "id": 27,
@@ -430,7 +484,9 @@
       "rating": {
         "rate": 4.8,
         "count": 12
-      }
+      },
+      "color":"trang",
+      "size":39
     },
     {
       "id": 28,
@@ -446,7 +502,9 @@
       "rating": {
         "rate": 5,
         "count": 120
-      }
+      },
+      "color":"trang",
+      "size":37
     },
     {
       "id": 29,
@@ -462,7 +520,9 @@
       "rating": {
         "rate": 4.3,
         "count": 10
-      }
+      },
+      "color":"trang",
+      "size":38
     },
     {
       "id": 30,
@@ -478,7 +538,9 @@
       "rating": {
         "rate": 5,
         "count": 120
-      }
+      },
+      "color":"hong",
+      "size":38
     }
     ,
     {
@@ -495,7 +557,9 @@
       "rating": {
         "rate": 5,
         "count": 120
-      }
+      },
+      "color":"trang",
+      "size":36
     },
     {
       "id": 32,
@@ -511,7 +575,9 @@
       "rating": {
         "rate": 5,
         "count": 12
-      }
+      },
+      "color":"trang",
+      "size":37
     },
     {
       "id": 33,
@@ -527,7 +593,9 @@
       "rating": {
         "rate": 4.7,
         "count": 121
-      }
+      },
+      "color":"xanh",
+      "size":39
     },
     {
       "id": 34,
@@ -543,7 +611,9 @@
       "rating": {
         "rate": 4.9,
         "count": 12
-      }
+      },
+      "color":"trang",
+      "size":37
     },
     {
       "id": 35,
@@ -559,7 +629,9 @@
       "rating": {
         "rate": 4.7,
         "count": 105
-      }
+      },
+      "color":"hong",
+      "size":37
     },
     {
       "id": 36,
@@ -575,7 +647,9 @@
       "rating": {
         "rate": 5,
         "count": 110
-      }
+      },
+      "color":"den",
+      "size":37
     },
     {
       "id": 37,
@@ -591,7 +665,9 @@
       "rating": {
         "rate": 4.8,
         "count": 12
-      }
+      },
+      "color":"hong",
+      "size":36
     },
     {
       "id": 38,
@@ -607,7 +683,9 @@
       "rating": {
         "rate": 5,
         "count": 120
-      }
+      },
+      "color":"den",
+      "size":38
     },
     {
       "id": 39,
@@ -623,7 +701,9 @@
       "rating": {
         "rate": 4.3,
         "count": 10
-      }
+      },
+      "color":"trang",
+      "size":36
     },
     {
       "id": 40,
@@ -639,7 +719,9 @@
       "rating": {
         "rate": 4.3,
         "count": 14
-      }
+      },
+      "color":"trang",
+      "size":36
     }
   ]
 }
