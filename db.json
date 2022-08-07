@@ -5,7 +5,7 @@
       "title": "Giày Converse Chuck Taylor All Star Classic",
       "description": "Nhắc đến tên dòng sản phẩm này - giày Converse classic đã đủ để thấy được sự basic của nó. Và BST Chuck Taylor All Star Classic đã chứng tỏ được vị thế của những đôi giày chất lượng - đơn giản - giá cả phải chăng của mình khi nó lọt top những sản phẩm đáng sở hữu nhất mà ai cũng nên có một đôi",
       "category": "converse",
-      "image": "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw54be686f/images/a_107/A00908C_A_107X1.jpg?sw=964",
+      "image": "https://product.hstatic.net/200000265619/product/d4ddf079f419dd539b7492a8ac84fd1e_9a82b5ad2072416abd6482e8423b57d7_1024x1024.jpg",
       "originalPrice": 1500000,
       "salePrice": 120000,
       "isPromotion": true,
@@ -15,15 +15,15 @@
         "rate": 5,
         "count": 120
       },
-      "color":"xanh",
+      "color":"vang",
       "size":36
     },
     {
       "id": 2,
-      "title": "Giày Converse Chuck Taylor All Star Classic - Black/ White",
+      "title": "Giày Converse Chuck Jeans All Star Classic",
       "description": "Nếu như các tín đồ thời trang trên toàn cầu đã không còn xa lạ với những item thời trang có tông màu hồng được lựa chọn với nhiều sắc thái khác nhau từ đậm, nhạt, có họa tiết hay không có họa tiết, thì một sản phẩm có phần đơn giản lại đẹp và cổ điển như giày Converse Chuck 70 Himalya Salt đảm bảo sẽ mang lại nhiều cảm hứng về thời trang tối giản hơn.",
       "category": "converse",
-      "image": "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw0877888b/images/a_107/A02061C_A_107X1.jpg?sw=964",
+      "image": "https://product.hstatic.net/200000265619/product/127440-1_3d48be2035ac4f979d85439bc069e047_1024x1024.jpg",
       "originalPrice": 2000000,
       "salePrice": 1900000,
       "isPromotion": true,
@@ -34,7 +34,7 @@
         "count": 12
       }
       ,
-      "color":"vang",
+      "color":"xanh",
       "size":37
     },
     {
