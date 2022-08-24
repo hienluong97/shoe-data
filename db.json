@@ -51,7 +51,7 @@
         "rate": 4.7,
         "count": 121
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 38
     },
     {
@@ -141,7 +141,7 @@
         "rate": 5,
         "count": 120
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 38
     },
     {
@@ -159,7 +159,7 @@
         "rate": 4.3,
         "count": 10
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 37
     },
     {
@@ -177,7 +177,7 @@
         "rate": 5,
         "count": 100
       },
-      "color": "hồng",
+      "color": "pink",
       "size": 38
     },
     {
@@ -195,7 +195,7 @@
         "rate": 5,
         "count": 95
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     },
     {
@@ -249,7 +249,7 @@
         "rate": 4.9,
         "count": 176
       },
-      "color": "den",
+      "color": "đen",
       "size": 38
     },
     {
@@ -285,7 +285,7 @@
         "rate": 5,
         "count": 110
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     },
     {
@@ -339,7 +339,7 @@
         "rate": 4.3,
         "count": 10
       },
-      "color": "den",
+      "color": "đen",
       "size": 39
     },
     {
@@ -375,7 +375,7 @@
         "rate": 5,
         "count": 120
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 39
     },
     {
@@ -393,7 +393,7 @@
         "rate": 5,
         "count": 12
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 38
     },
     {
@@ -411,7 +411,7 @@
         "rate": 4.7,
         "count": 121
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 37
     },
     {
@@ -429,7 +429,7 @@
         "rate": 4.9,
         "count": 12
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     },
     {
@@ -447,7 +447,7 @@
         "rate": 4.7,
         "count": 105
       },
-      "color": "hồng",
+      "color": "pink",
       "size": 38
     },
     {
@@ -465,7 +465,7 @@
         "rate": 5,
         "count": 110
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     },
     {
@@ -483,7 +483,7 @@
         "rate": 4.8,
         "count": 12
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 39
     },
     {
@@ -501,7 +501,7 @@
         "rate": 5,
         "count": 120
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 37
     },
     {
@@ -519,7 +519,7 @@
         "rate": 4.3,
         "count": 10
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 38
     },
     {
@@ -537,7 +537,7 @@
         "rate": 5,
         "count": 120
       },
-      "color": "hồng",
+      "color": "pink",
       "size": 38
     },
     {
@@ -555,7 +555,7 @@
         "rate": 5,
         "count": 120
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     },
     {
@@ -573,7 +573,7 @@
         "rate": 5,
         "count": 12
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 37
     },
     {
@@ -609,7 +609,7 @@
         "rate": 4.9,
         "count": 12
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 37
     },
     {
@@ -627,7 +627,7 @@
         "rate": 4.7,
         "count": 105
       },
-      "color": "hồng",
+      "color": "pink",
       "size": 37
     },
     {
@@ -645,7 +645,7 @@
         "rate": 5,
         "count": 110
       },
-      "color": "den",
+      "color": "đen",
       "size": 37
     },
     {
@@ -663,7 +663,7 @@
         "rate": 4.8,
         "count": 12
       },
-      "color": "hồng",
+      "color": "pink",
       "size": 36
     },
     {
@@ -681,7 +681,7 @@
         "rate": 5,
         "count": 120
       },
-      "color": "den",
+      "color": "đen",
       "size": 38
     },
     {
@@ -699,7 +699,7 @@
         "rate": 4.3,
         "count": 10
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     },
     {
@@ -717,7 +717,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     },
     {
@@ -735,7 +735,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 38
     },
     {
@@ -753,7 +753,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 39
     },
     {
@@ -771,7 +771,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 38
     },
     {
@@ -789,7 +789,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 37
     },
     {
@@ -807,7 +807,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 37
     },
     {
@@ -825,7 +825,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     },
     {
@@ -843,7 +843,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 39
     },
     {
@@ -861,7 +861,7 @@
         "rate": 4.3,
         "count": 14
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 38
     },
     {
@@ -879,7 +879,7 @@
         "rate": 4.3,
         "count": 198
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 37
     },
     {
@@ -897,7 +897,7 @@
         "rate": 4.3,
         "count": 18
       },
-      "color": "trắng",
+      "color":"trắng",
       "size": 36
     }
   ],
@@ -962,7 +962,7 @@
             "rate": 4.7,
             "count": 121
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 38
         },
         {
@@ -1052,7 +1052,7 @@
             "rate": 5,
             "count": 120
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 38
         },
         {
@@ -1070,7 +1070,7 @@
             "rate": 4.3,
             "count": 10
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 37
         },
         {
@@ -1088,7 +1088,7 @@
             "rate": 5,
             "count": 100
           },
-          "color": "hồng",
+          "color": "pink",
           "size": 38
         }
       ]
@@ -1117,7 +1117,7 @@
             "rate": 5,
             "count": 95
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         },
         {
@@ -1153,7 +1153,7 @@
             "rate": 4.7,
             "count": 121
           },
-          "color": "den",
+          "color": "đen",
           "size": 38
         },
         {
@@ -1171,7 +1171,7 @@
             "rate": 4.9,
             "count": 176
           },
-          "color": "den",
+          "color": "đen",
           "size": 38
         },
         {
@@ -1207,7 +1207,7 @@
             "rate": 5,
             "count": 110
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         },
         {
@@ -1261,7 +1261,7 @@
             "rate": 4.3,
             "count": 10
           },
-          "color": "den",
+          "color": "đen",
           "size": 39
         },
         {
@@ -1308,7 +1308,7 @@
             "rate": 5,
             "count": 120
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 39
         },
         {
@@ -1326,7 +1326,7 @@
             "rate": 5,
             "count": 12
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 38
         },
         {
@@ -1344,7 +1344,7 @@
             "rate": 4.7,
             "count": 121
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 37
         },
         {
@@ -1362,7 +1362,7 @@
             "rate": 4.9,
             "count": 12
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         },
         {
@@ -1380,7 +1380,7 @@
             "rate": 4.7,
             "count": 105
           },
-          "color": "hồng",
+          "color": "pink",
           "size": 38
         },
         {
@@ -1398,7 +1398,7 @@
             "rate": 5,
             "count": 110
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         },
         {
@@ -1416,7 +1416,7 @@
             "rate": 4.8,
             "count": 12
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 39
         },
         {
@@ -1434,7 +1434,7 @@
             "rate": 5,
             "count": 120
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 37
         },
         {
@@ -1452,7 +1452,7 @@
             "rate": 4.3,
             "count": 10
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 38
         },
         {
@@ -1470,7 +1470,7 @@
             "rate": 5,
             "count": 120
           },
-          "color": "hồng",
+          "color": "pink",
           "size": 38
         }
       ]
@@ -1499,7 +1499,7 @@
             "rate": 5,
             "count": 120
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         },
         {
@@ -1517,7 +1517,7 @@
             "rate": 5,
             "count": 12
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 37
         },
         {
@@ -1553,7 +1553,7 @@
             "rate": 4.9,
             "count": 12
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 37
         },
         {
@@ -1571,7 +1571,7 @@
             "rate": 4.7,
             "count": 105
           },
-          "color": "hồng",
+          "color": "pink",
           "size": 37
         },
         {
@@ -1589,7 +1589,7 @@
             "rate": 5,
             "count": 110
           },
-          "color": "den",
+          "color": "đen",
           "size": 37
         },
         {
@@ -1607,7 +1607,7 @@
             "rate": 4.8,
             "count": 12
           },
-          "color": "hồng",
+          "color": "pink",
           "size": 36
         },
         {
@@ -1625,7 +1625,7 @@
             "rate": 5,
             "count": 120
           },
-          "color": "den",
+          "color": "đen",
           "size": 38
         },
         {
@@ -1643,7 +1643,7 @@
             "rate": 4.3,
             "count": 10
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         },
         {
@@ -1661,7 +1661,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         }
       ]
@@ -1690,7 +1690,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 38
         },
         {
@@ -1708,7 +1708,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 39
         },
         {
@@ -1726,7 +1726,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 38
         },
         {
@@ -1744,7 +1744,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 37
         },
         {
@@ -1762,7 +1762,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 37
         },
         {
@@ -1780,7 +1780,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         },
         {
@@ -1798,7 +1798,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 39
         },
         {
@@ -1816,7 +1816,7 @@
             "rate": 4.3,
             "count": 14
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 38
         },
         {
@@ -1834,7 +1834,7 @@
             "rate": 4.3,
             "count": 198
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 37
         },
         {
@@ -1852,7 +1852,7 @@
             "rate": 4.3,
             "count": 18
           },
-          "color": "trắng",
+          "color":"trắng",
           "size": 36
         }
       ]
