@@ -177,7 +177,7 @@
         "rate": 5,
         "count": 100
       },
-      "color": "pink",
+      "color": "hồng",
       "size": 38
     },
     {
@@ -447,7 +447,7 @@
         "rate": 4.7,
         "count": 105
       },
-      "color": "pink",
+      "color": "hồng",
       "size": 38
     },
     {
@@ -537,7 +537,7 @@
         "rate": 5,
         "count": 120
       },
-      "color": "pink",
+      "color": "hồng",
       "size": 38
     },
     {
@@ -627,7 +627,7 @@
         "rate": 4.7,
         "count": 105
       },
-      "color": "pink",
+      "color": "hồng",
       "size": 37
     },
     {
@@ -663,7 +663,7 @@
         "rate": 4.8,
         "count": 12
       },
-      "color": "pink",
+      "color": "hồng",
       "size": 36
     },
     {
@@ -1088,7 +1088,7 @@
             "rate": 5,
             "count": 100
           },
-          "color": "pink",
+          "color": "hồng",
           "size": 38
         }
       ]
@@ -1380,7 +1380,7 @@
             "rate": 4.7,
             "count": 105
           },
-          "color": "pink",
+          "color": "hồng",
           "size": 38
         },
         {
@@ -1470,7 +1470,7 @@
             "rate": 5,
             "count": 120
           },
-          "color": "pink",
+          "color": "hồng",
           "size": 38
         }
       ]
@@ -1571,7 +1571,7 @@
             "rate": 4.7,
             "count": 105
           },
-          "color": "pink",
+          "color": "hồng",
           "size": 37
         },
         {
@@ -1607,7 +1607,7 @@
             "rate": 4.8,
             "count": 12
           },
-          "color": "pink",
+          "color": "hồng",
           "size": 36
         },
         {
